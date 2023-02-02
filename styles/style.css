@@ -24,6 +24,7 @@ button{
     border-radius: 5px;
     font-weight: 600;
     width: fit-content;
+    border-color: rgb(18,155,155);
 }
 button a{
     text-decoration: none;
